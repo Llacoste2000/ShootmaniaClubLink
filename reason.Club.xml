@@ -9,7 +9,7 @@
 <color primary="600"/>
 <!--  Emblem of the team (Used on the spawns, the poles and the UI)  -->
 <!--  Must be a dds file in BC1/DXT1 with mipmaps of 512x512 pixels -->
-<emblem></emblem>
+<emblem>https://cdn.discordapp.com/attachments/375776668507176972/839097739542659122/reason-512.dds</emblem>
 -->
 <!--  Players list  -->
 <players>
