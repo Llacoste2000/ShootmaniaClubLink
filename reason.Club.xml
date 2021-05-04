@@ -1,0 +1,22 @@
+<club version="1">
+<!--  Name of the team  -->
+<name>$s$600Reason</name>
+<!--  Zone of the team (See in game for the zone structure)  -->
+<zone>World|Europe|France|Île-de-France|Paris</zone>
+<!--  City of the team  -->
+<city>Paris</city>
+<!--  Colors of the team (Used on the spawns, the poles and the UI)  -->
+<color primary="600"/>
+<!--  Emblem of the team (Used on the spawns, the poles and the UI)  -->
+<!--  Must be a dds file in BC1/DXT1 with mipmaps of 512x512 pixels -->
+<emblem></emblem>
+-->
+<!--  Players list  -->
+<players>
+<!--  ManiaPlanet login of the player  -->
+<player login="koo"/>
+<player login="be1209"/>
+<player login="rottje"/>
+<player login="onepiece2000"/>
+</players>
+</club>
